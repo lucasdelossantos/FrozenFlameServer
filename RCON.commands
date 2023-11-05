@@ -1,8 +1,8 @@
 # Server Commands
 Server commands allow you to get more information regarding your server's players, control their access to it and affect their in-game state or inventory.
 Currently servers support following commands:
-- Angle brackets disignate <Required-parametres> - such parametres must be entered for the command to work.	
-- Square brackets disignate [Optional-parametres] - such parametres can be entered in addition to the command.
+- Angle brackets designate <Required-parametres> - such parametres must be entered for the command to work.	
+- Square brackets designate [Optional-parametres] - such parametres can be entered in addition to the command.
 	
 	
 * **Users and Profiles**:
@@ -94,7 +94,7 @@ Currently servers support following commands:
 		- ClothGloves_A - Cloth Gloves
 		- ClothPants_A - Cloth Pants
 		- ClothBoots_A - Cloth Foot Wraps
-	- **Rawgide Set**:
+	- **Rawhide Set**:
 		- RawhideHelmet_A - Rawhide Helmet
 		- RawhideArmor_A - Rawhide Armor
 		- RawhideGloves_A - Rawhide Gloves
@@ -130,25 +130,39 @@ Currently servers support following commands:
 		- ZombieIronMask_A - Black Mask
 		- BubbleHelmet_A - Bubble
 	
-* **Resources**:
+* Resources:
 	- Branches_M - Branch
 	- Wood_M - Log
 	- Plank_M - Plank
 	- Fiber_M - Fiber
 	- Fabric_M - Fabric
+	- Stone_M - Stone
+	- Block_M - Stone Block
+	- Flint_M - Flint
+	- Coal_M - Coal
+	- Bones_M - Ancient Bones
+	- Ore_M - Iron Ore
+	- IronBar_M - Iron Ingot
+	- Plate_M - Metal Plate
+	- MithrilOre_M - Mithril Ore
+	- MithrilBar_M - Mithril Ingot
 	- Leather_M - Nibbler Leather
 	- Hide_M - Large Boar Hide
-	- Fur_M - Ram Hide
-	- Hide_02_M - Manticore Hide
-	- Bones_M - Ancient Bones
+	- Fur_M -Ram Hide
+	- Hide_02_M -Manticore Hide
+	- Leather_02_M -Treated Leather
 	- Ivory_M - Tusks
 	- Horn_M - Ram Horn
-	- Stone_M - Stone
-	- Flint_M - Flint
-	- Block_M - Stone Block
-	- Ore_M - Iron Ore
-	- Coal_M - Coal
-	- IronBar_M - Iron Ingot
+	- FertilizerBasic_C - Fertilizer
+	- MagicSeed_C - Magic Seed
+	- FlameEssence_C - Flame Essence 
+	- FlameEssence_02_C - Large Flame Essence
+	- SolidEssence_C - Solid Essence
+	- PortalEssence_C - Astral Essence
+	- Crystal_Blue_C - Heavenly Crystal
+	- CrystalEssence_C - Crystal Essence
+	- Crystal_Green_C -Nature Crystal
+	- CrystalEssence_02_C - Nature Essence
 	- FlaskEmpty_C - Empty Waterskin
 
 * **Quest Items**:
